@@ -72,7 +72,10 @@ Dirty data can:
 - **Gartner prediction:** Through 2026, organizations will abandon **60%** of AI projects unsupported by AI-ready data
 
 **Payoff of clean data:** Enterprises with widely trusted data achieve **nearly double** the ROI on AI investments (IBV research)
-
+---
+## Top 3 Root Causes of Dirty Data
+1. Flawed data integration 
+2. Off by one errors
 ---
 
 ## Root Causes of Dirty Data

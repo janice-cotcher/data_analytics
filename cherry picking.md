@@ -36,6 +36,6 @@ Active process:
 ## Combating Bad Data
 - Skepticism
 "Pausing to consider alternatives and to search for evidence"
-Confounding variables - secret thrid thing
+Confounding variables - secret third thing
 - Tolerance of Uncertainity
 "Accepting that there are many things we do not know"
